@@ -132,7 +132,7 @@
 	        
 		"https://d3q7p75734r5a4.cloudfront.net/Simon_games_test/Simon_Runner_en/loading-logo.png",
 		"https://d3q7p75734r5a4.cloudfront.net/Simon_games_test/Simon_Runner_en/html2canvas.min.js",
-		"https://d3q7p75734r5a4.cloudfront.net/Simon_games_test/Simon_Runner_en/animate.css",
-		"https://d3q7p75734r5a4.cloudfront.net/Simon_games_test/Simon_Runner_en/hmmg_layoutTransition.css"
+		"https://github.com/Jaskakidscontent/games/raw/main/animate.css",
+		"https://github.com/Jaskakidscontent/games/raw/main/hmmg_layoutTransition.css"
 	]
 }
